@@ -1,0 +1,3 @@
+D:\Програмування\pz\PR__5\PR__5\x64\Debug\PR__5.vcxproj.AssemblyReference.cache
+D:\Програмування\pz\PR__5\PR__5\x64\Debug\PR5.MyForm.resources
+D:\Програмування\pz\PR__5\PR__5\x64\Debug\PR__5.vcxproj.GenerateResource.cache
